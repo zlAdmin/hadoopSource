@@ -1,0 +1,6 @@
+com\zl\hadoop\mapreduce\WordCountApp$MyReducer.class
+com\zl\hadoop\mapreduce\WordCountApp.class
+com\zl\hadoop\App.class
+com\zl\hadoop\hdfs\HDFSApp$1.class
+com\zl\hadoop\mapreduce\WordCountApp$MyMapper.class
+com\zl\hadoop\hdfs\HDFSApp.class
